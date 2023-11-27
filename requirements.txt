@@ -1,0 +1,10 @@
+tiktoken
+faiss-cpu
+langchain
+PyPDF2
+
+#store environment variable such as your api key
+python-dotenv
+
+streamlit
+openai
